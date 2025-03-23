@@ -22,3 +22,19 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Node.js
+node_modules
+client/node_modules
+
+# Vite build
+dist
+
+# SQLite DB
+server/data.db
+
+# IDE
+.vscode
+
+# env-файли
+.env
